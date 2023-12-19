@@ -1,9 +1,3 @@
-.markdown-body img {
-    max-width: 100%;
-    box-sizing: content-box;
-    background-color: var(--bgColor-default, var(--color-canvas-default));
-    margin-right: 15px;
-}
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
