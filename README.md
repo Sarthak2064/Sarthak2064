@@ -77,8 +77,9 @@
 ###
 
 <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2064&show_icons=true&locale=en&layout=compact" alt="sarthak2064" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak2064&" alt="sarthak2064" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2064&show_icons=true&locale=en&layout=compact" alt="sarthak2064" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak2064&" alt="sarthak2064" />
+ </p>
 </div>
 
 ###
